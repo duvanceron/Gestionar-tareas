@@ -1,0 +1,32 @@
+{
+    "Homeworks":[
+        {
+            "title":"Tarea 1",
+            "responsible":"Mark zuckenberg",
+            "description":"Ninguna",
+            "priority":"baja"
+
+        },
+        {
+            "title":"Tarea 2",
+            "responsible":"Pedro Salamanca",
+            "description":"Ninguna",
+            "priority":"baja"
+
+        },
+        {
+            "title":"Tarea 3",
+            "responsible":"Julian Martinez",
+            "description":"Ninguna",
+            "priority":"alta"
+
+        },
+        {
+            "title":"Tarea 4",
+            "responsible":"Julian Martinez",
+            "description":"Ninguna",
+            "priority":"alta"
+
+        }
+    ]
+}
